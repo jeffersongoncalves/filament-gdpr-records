@@ -20,7 +20,7 @@ Manage the records of processing activities (GDPR Art. 30) of [laravel-gdpr-reco
 - Link activities to the models of `gdpr.models`: the personal data declared on them joins the record.
 - Recipients (processor, controller, public authority) and transfers outside the EEA with their Chapter V mechanism.
 - **Export records (JSON):** controller, EU representative, data protection officer and every activity, in one file.
-- English (more languages coming).
+- 19 languages.
 
 ## Compatibility
 
